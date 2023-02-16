@@ -1,0 +1,398 @@
+Arthr(o)
+joint 
+articulation
+
+Cardi(o)
+Heart
+
+Chondr(o)
+Cartilage
+
+Cyst(o)
+Bladder
+
+Derm(ato)
+Skin
+
+Gloss(o), lingual
+Tongue
+
+Haem(ato/o)
+Blood
+
+Hepat(o)
+Liver
+
+Hist(io/o)
+Tissue
+
+Mamm(o), mastr(o)
+Breast 
+mammary 
+gland
+
+Metr(a/o)
+Uterus
+
+My(o)
+Muscle
+
+Neur(o)
+Nerve
+
+Ophthalm(o)
+Eye
+
+Orchid(o)
+Testis 
+testicle
+
+Oste(o)
+Bone
+
+Pneum(o)
+Air or gas
+lung
+
+Pnoea
+Respiration
+
+Ren
+Kidney
+
+Rhin(o)
+Nose
+
+Trich(o)
+Hair
+
+Vas(o)
+Vessel duct
+
+active site
+vi tri kich hoat
+
+active transport
+van chuyen chu dong
+
+amino acid
+axit amin
+
+amphipathic
+luong tinh
+ua nuoc + ki nuoc
+
+anabolism
+dong hoa
+
+antioxidant
+chat chong oxh
+chat chong oxy hoa
+
+ATP Synthase
+enzyme tong hop atp
+
+ATP
+phan tu mang nang luong
+
+biochemical pathway
+con duong sinh hoa
+
+buffer solution
+dung dich dem
+
+buffering capacity
+do dem
+
+burst of energy
+gang suc
+
+carnivorous
+an thit
+dong vat an thit
+
+carnier protein
+protein van chuyen
+
+cascade
+chuoi phan ung
+
+catabolism
+di hoa
+
+catalysis
+su xuc tac
+
+cromatography
+sac ky
+
+chylomicron
+vi the nhu trap
+
+coenzyme
+dong dieu to
+
+cytochrome
+sac to tb
+
+cytoskeleton
+khung tb
+
+cytosol
+dich bao tuong
+
+cytoplasm
+tb chat
+
+deamidation
+khu amid
+
+deamination
+khu amin
+
+electronegativity
+ai luc dien tu
+
+electrophoresis
+dien ai
+
+end product
+san pham cuoi cung
+
+endocytosis
+nhap bao
+
+equivalent
+tuong duong
+tuong dong
+
+facilitated diffusion
+khuech tan tro luc
+
+fatty acids
+axit beo
+
+feed
+cung cap
+
+gluconeogenesis
+tan sinh duong
+
+glycolysis
+duong phan
+
+hydrolysis
+thuy phan
+
+hydrophillic
+ua nuoc
+
+hydrophobic
+ki nuoc
+
+inhibitor
+chat uc che
+
+intracellular
+noi bao
+
+lactation
+tiet sua
+
+lipid bilayers
+mang doi lipid
+
+lipogenesis
+su hinh thanh chat beo
+
+metabolic fuel
+nguyen lieu bien duong
+
+metabolism
+su trao doi chat
+bien duong
+
+micelle
+hat mixen
+
+organelle
+bao quan
+
+oxidation
+su oxh
+
+phosphorylation
+su photphat hoa
+
+photosynthesis
+su quang hop
+
+precursor
+tien chat
+
+substrate
+co chat
+
+transamination
+su chuyen nhom amino
+
+transporter
+chat van chuyen
+
+tricarboxylic acid cycle
+chu trinh Krebs
+
+allele
+gen dang vi
+
+anticodon
+bo ba doi ma
+
+apoptosis
+chet theo lap trinh
+
+base pair
+cap baze
+
+base
+baze
+
+cell cycle
+chu ky tb
+
+cell division
+su phan bao
+
+cell wall
+thanh tb
+
+centromere
+tam dong
+
+checkpoint
+diem kiem soat
+
+chromatid
+nhiem sac tu
+
+chromatin
+nhiem sac chat
+
+chromosome
+nhiem sac the
+NST
+
+clone
+dong vo tinh
+
+codon
+bo ba ma hoa
+
+complementary
+bo sung
+lan nhau
+
+cytogenetic
+di truyen tb
+
+denaturation
+su bien tinh
+
+differentiation
+su biet hoa
+
+diploid
+luong noi
+
+embryogenesis
+su hinh thanh phoi
+
+enhancer
+trinh tu dieu hoa phien ma
+
+epitope
+quyet dinh khang nguyen
+
+eukaryotes
+sinh vat nhan thuc
+
+exon
+vung ma hoa
+
+fertilization
+su thu thai
+
+gamete
+giao tu
+
+gene expression
+su bieu hien cua gen
+
+gene
+gen
+
+genetic code
+ma di truyen
+
+genome
+bo gen
+
+genotype
+kieu gen
+
+haploid
+don boi
+
+heterozygous
+di hop tu
+
+homozygous
+dong hop tu
+
+hybridization
+su lai ghep
+
+hybridoma
+dong tb lai bat diet tao khang the don dong
+
+intron
+vung khong ma hoa
+
+karyotype
+kieu nhan
+
+macrophage
+dai thuc bao
+
+meiosis
+giam phan
+
+mitosis
+nguyen phan
+
+primer
+doan moi
+
+probe
+doan do
+
+prokaryotes
+sinh vat tien nhan
+
+promoter
+trinh tu khoi dau phien ma
+
+striated muscle cell
+tb co van
+
+mitochondria
+ti the
+
+molecule
+phan tu
+
+against a concentration gradient
+nguoc chieu radian nong do
+
+nutrient
+chat dinh duong
